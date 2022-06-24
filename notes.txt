@@ -1,0 +1,37 @@
+1. what is the javascript?
+2. what is the static web page?
+3. what is the dynamic web page?
+
+
+
+ <script src="script.js"></script>
+ Make sure script loaded last in body tag
+
+ append
+
+ createelement
+ createelements
+ children
+
+ createattribute
+ createattributes
+
+ queryselector
+
+ onchange
+ onclick
+ onmouseover
+ onkeyup
+ onkeydown
+ onmouserenter
+ onmouseout
+
+ NodeName
+ NodeValue
+
+ removeelement
+ removeelements
+
+ replacechild
+
+ scripts
