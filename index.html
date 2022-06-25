@@ -4,7 +4,7 @@
     </head>
     <body>
        
-        <input id="txt" type="text" />
+        <input name="txtName" id="txt" type="text" />
         <p id="paragraph">Paragraph</p>
         <label style="background-color:red">Hai</label>
 
@@ -14,9 +14,26 @@
 
         <div id="container"></div>
 
-        <script src="script.js"></script>
+        <form name="CustomerForm">
+            <label for="customerName"></label>
+            <input type="text" id="customerName" name="customerName" />
+            <input type="text" id="customerLocation1" name="customerLocation1" />
+        </form>
+
+        <input type="text" id="customerLocation" name="customerLocation" />
+
+        
+        <!-- <script src="scriptOne.js"></script> -->
         <button type="button" onclick="document.getElementById('txt').value = 'madan'">Try it</button>
-       
+        
+        <!-- <script src="MainScript.js"></script>
+        <script src="script.js"></script> -->
+
+
+        <script src="scriptOne.js"></script>
+
+
+
     </body>
 </html>
 

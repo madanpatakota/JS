@@ -3,6 +3,51 @@
 3. what is the dynamic web page?
 
 
+show them to the howmany scripts are loading when you add in .html file
+
+var let const string number boolean array object typeof date null undefined
+== and === difference
+
+operators 
+a = 6;
+a +=6;
+
+&& || opeator
+
+if else if if 
+
+switch case
+weekdays
+
+function{}
+
+arrray
+for loop
+
+object
+
+this keyword
+
+property
+void nonvoid functions
+function with parameters
+nullbale operator
+
+
+arrow functions
+
+constructor
+method
+static
+instance member
+
+inheritance
+
+
+script to script to realation ship
+
+
+
 
  <script src="script.js"></script>
  Make sure script loaded last in body tag
@@ -35,3 +80,23 @@
  replacechild
 
  scripts
+
+
+
+
+
+
+
+
+
+
+
+
+
+ body onload
+ window onload
+ cookie
+ local storage
+ session storage
+
+
